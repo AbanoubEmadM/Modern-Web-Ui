@@ -1,0 +1,109 @@
+.gpt3__footer {
+  color: #fff;
+  font-family: var(--font-family);
+  background: var(--color-footer);
+}
+.gpt3__footer-main {
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 12rem;
+  justify-content: center;
+  align-items: center;
+}
+.gpt3__footer-main h1 {
+  background: var(--gradient-text);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  font-size: 62px;
+  text-align: center;
+  margin-bottom: 2rem;
+}
+.gpt3__footer-main button {
+  padding: 24px;
+  background: none;
+  color: #fff;
+  border: 2px solid #fff;
+  font-size: 17px;
+  transition: 0.5s ease;
+  cursor: pointer;
+}
+.gpt3__footer-main button:hover {
+  color: #000;
+  background-color: #fff;
+}
+.gpt3__footer-end {
+  display: flex;
+  flex: 1;
+}
+.gpt3__footer-end p {
+  font-weight: 800;
+  line-height: 30px;
+}
+.gpt3__footer-end span {
+  font-weight: 300;
+  margin-top: 3rem;
+  line-height: 30px;
+}
+.gpt3__footer-end-links {
+  display: flex;
+  justify-content: space-around;
+  margin-bottom: 6rem;
+  flex: 3;
+}
+.gpt3__footer-end-links h3 {
+  margin-bottom: 2rem;
+}
+.gpt3__footer-end-links li {
+  list-style: none;
+  margin-bottom: 2rem;
+  font-weight: 400;
+  transition: 0.5s ease;
+  cursor: pointer;
+}
+.gpt3__footer-end-links li:hover {
+  color: var(--color-text);
+}
+@media screen and (max-width: 650px) {
+  .gpt3__footer-main {
+    margin-bottom: 5rem;
+  }
+
+  .gpt3__footer-main h1 {
+    font-size: 22px;
+  }
+  .gpt3__footer-main button {
+    padding: 15px;
+    font-size: 14px;
+  }
+  .gpt3__footer-end {
+    flex-direction: column;
+  }
+  .gpt3__footer-end-links {
+    flex-direction: column;
+    margin-top: 2rem;
+  }
+}
+@media screen and (max-width: 1150px) {
+  .gpt3__footer-main {
+    margin-bottom: 5rem;
+  }
+
+  .gpt3__footer-main h1 {
+    font-size: 30px;
+  }
+  .gpt3__footer-main button {
+    padding: 20px;
+    font-size: 17px;
+  }
+  .gpt3__footer-end {
+    flex-direction: column;
+  }
+  .gpt3__footer-end p {
+    text-align: center;
+    margin-bottom: 2rem;
+  }
+  .gpt3__footer-end-links {
+    flex-direction: row;
+    margin-top: 2rem;
+  }
+}
