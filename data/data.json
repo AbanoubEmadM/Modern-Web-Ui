@@ -1,0 +1,73 @@
+{
+    "WhatGPT3":[
+        {
+            "id":1,
+            "title":"Chatbots",
+            "text":"Considered sympathize ten uncommonly occasional assistance sufficient not. Letter of on become he tended active enable to."
+        },
+        {
+            "id":2,
+            "title":"Knowledgebase",
+            "text":"At jointure ladyship an insisted so humanity he. Friendly bachelor entrance to on by. As put impossible own apartments b "
+        },
+        {
+            "id":3,
+            "title":"Education",
+            "text":"At jointure ladyship an insisted so humanity he. Friendly bachelor entrance to on by. As put impossible own apartments b "
+        }
+    ],
+    "features":[
+        {
+            "id":1,
+            "title":"Improving end distrusts instantly ",
+            "text":"We so opinion friends me message as delight. Whole front do of plate heard oh ought."
+        },
+        {
+            "id":2,
+            "title":"Become the tended active ",
+            "text":"At jointure ladyship an insisted so humanity he. Friendly bachelor entrance to on by. As put impossible own apartments b "
+        },
+        {
+            "id":3,
+            "title":"Message or am nothing",
+            "text":"Led ask possible mistress relation elegance eat likewise debating. By message or am nothing amongst chiefly address."
+        },
+        {
+            "id":4,
+            "title":"Really boy law county ",
+            "text":"Really boy law county she unable her sister. Feet you off its like like six. Among sex are leave law built now. In built table in an rapid blush."
+        }
+    ],
+    "blog":[
+        {
+            "img":"../../assets/blog01.png",
+            "time":"Sep 26, 2021",
+            "title":"GPT-3 and Open  AI is the future. Let us exlore how it is?",
+            "id":1
+        },
+        {
+            "img":"../../assets/blog02.png",
+            "time":"Sep 26, 2021",
+            "title":"GPT-3 and Open  AI is the future. Let us exlore how it is?",
+            "id":2
+        },
+        {
+            "img":"../../assets/blog03.png",
+            "time":"Sep 26, 2021",
+            "title":"GPT-3 and Open  AI is the future. Let us exlore how it is?",
+            "id":3
+        },
+        {
+            "img":"../../assets/blog04.png",
+            "time":"Sep 26, 2021",
+            "title":"GPT-3 and Open  AI is the future. Let us exlore how it is?",
+            "id":4
+        },
+        {
+            "img":"../../assets/blog05.png",
+            "time":"Sep 26, 2021",
+            "title":"GPT-3 and Open  AI is the future. Let us exlore how it is?",
+            "id":5
+        }
+    ]
+}

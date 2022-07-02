@@ -1,0 +1,1 @@
+export image from '../../src/assets/blog01.png'
